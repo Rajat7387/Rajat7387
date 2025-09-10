@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Mukul Kalsait (he/him)
+# 👋 Hi, I'm Rajat Billore (he/him)
 
-🔧 Backend Developer | Full-Stack Web Developer  
+🔧 Data Analyst | Pyton  
 🌍 Based in Nagpur, India  
 📫 [mukul.kalsait21@gmail.com](mailto:mukul.kalsait21@gmail.com) • [mdk.121.72633.sg@gmail.com](mailto:mdk.121.72633.sg@gmail.com)  
 🌐 [Portfolio/Work](https://vihaanaigames.com)
@@ -9,7 +9,7 @@
 
 ## 💫 About Me
 
-- 🔭 Currently working at **RGVP Web Solutions** as a Backend Developer & Internship Coordinator
+- 🔭 Currently working at **RGVP Web Solutions** as a Backend Data Analyst & Internship Coordinator
 - 🧠 Learning Rust, improving DSA, and building full-stack projects using **Node.js**, **React**, and **MySQL**
 - 💻 Deployed 35+ real-world apps across education, e-commerce, and CRM domains
 - 👯 Open to collaborate on meaningful web-based projects
