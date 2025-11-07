@@ -2,7 +2,7 @@
 
 🔧 Data Analyst | Pyton  
 🌍 Based in Nagpur, India  
-📫 [mukul.kalsait21@gmail.com](mailto:mukul.kalsait21@gmail.com) • [mdk.121.72633.sg@gmail.com](mailto:mdk.121.72633.sg@gmail.com)  
+📫 [rajat.billore@gmail.com](mailto:rajat.billore@gmail.com) • [mdk.121.72633.sg@gmail.com](mailto:mdk.121.72633.sg@gmail.com)  
 🌐 [Portfolio/Work](https://vihaanaigames.com)
 
 ---
